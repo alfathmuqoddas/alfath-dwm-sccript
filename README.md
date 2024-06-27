@@ -7,3 +7,6 @@
 
 ## Dependencies
 1. [alfath-dwm](https://github.com/alfathmuqoddas/alfath-dwm)
+2. [alfath-dwmstatus](https://github.com/alfathmuqoddas/alfath-dwmstatus)
+3. [alfath-st1](https://github.com/alfathmuqoddas/alfath-st1)
+4. [alfath-dmenu](https://github.com/alfathmuqoddas/alfath-dmenu)
