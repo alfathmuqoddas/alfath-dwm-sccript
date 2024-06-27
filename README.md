@@ -4,3 +4,6 @@
 1. clone the repo
 2. run the script ```sh ./install.sh```
 3. then run ```sh ./init.sh```
+
+## Dependencies
+1. [alfath-dwm](https://github.com/alfathmuqoddas/alfath-dwm)
