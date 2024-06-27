@@ -1,4 +1,5 @@
 # alfath-dwm-script
+Script to install my custom version of DWM in a debian based distro, along with other suckless tools
 
 ## Debian with DWM Window Manager as Desktop
 1. clone the repo
