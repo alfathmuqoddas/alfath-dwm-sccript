@@ -29,11 +29,11 @@ sudo cp -r ../fonts-cool/* /usr/share/fonts/
 sudo apt install -y lightdm lightdm-gtk-greeter thunar xfce4-settings lxappearance
 
 #install themes and icons
-#sudo apt install -y materia-gtk-theme papirus-icon-theme
+sudo apt install -y materia-gtk-theme papirus-icon-theme
 
 #enable lightdm
-sudo systemctl enable lightdm
-sudo cp alfath-dwm/dwm.desktop /usr/share/xsessions/
-mkdir -p /home/${USER}/.dwm && cp alfath-dwm/autostart.sh /home/${USER}/.dwm/
-sudo systemctl start lightdm
+#sudo systemctl enable lightdm
+#sudo cp alfath-dwm/dwm.desktop /usr/share/xsessions/
+#mkdir -p /home/${USER}/.dwm && cp alfath-dwm/autostart.sh /home/${USER}/.dwm/
+#sudo systemctl start lightdm
 
