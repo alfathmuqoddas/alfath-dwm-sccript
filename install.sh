@@ -31,6 +31,9 @@ sudo apt install -y lightdm lightdm-gtk-greeter thunar xfce4-settings lxappearan
 #install themes and icons
 sudo apt install -y materia-gtk-theme papirus-icon-theme
 
+#init
+sh ./init.sh
+
 #enable lightdm
 #sudo systemctl enable lightdm
 #sudo cp alfath-dwm/dwm.desktop /usr/share/xsessions/
